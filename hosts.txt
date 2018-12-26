@@ -1,4 +1,4 @@
-﻿# hpHosts - Ad and Tracking servers only
+# hpHosts - Ad and Tracking servers only
 #
 # The following are hosts in the hpHosts database with the ATS classification ONLY.
 # This file will NOT protect you against malicious domains
@@ -9,3 +9,5 @@
 # AD SERVERS START HERE
 #
 127.0.0.1	admicro.vn
+127.0.0.1	www.bidgear.com
+127.0.0.1	lg1.logging.admicro.vn
